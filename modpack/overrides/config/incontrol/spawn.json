@@ -1,0 +1,161 @@
+[
+	{
+		"mob": [
+            "minecraft:iron_golem"
+        ],
+		"onjoin": "true",
+		"healthmultiply": 3,
+		"damagemultiply": 2.5
+	},
+    {
+        "dimension":"minecraft:overworld",
+        "mob": "aquamirae:anglerfish",
+        "biome": [
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+        ],
+        "maxcount": {
+            "amount": 15,
+            "perplayer": true
+        },
+        "result": "default"
+    },
+    {
+        "mob": "aquamirae:anglerfish",
+        "result": "deny"
+    },
+    {
+        "dimension":"minecraft:overworld",
+        "mob": "aquamirae:maze_mother",
+        "biome": [
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+        ],
+        "random": 0.5,
+        "maxcount": {
+            "amount": 2,
+            "perplayer": true
+        },
+        "result": "default"
+    },
+    {
+        "mob": "aquamirae:maze_mother",
+        "result": "deny"
+    },
+    {
+        "dimension":"minecraft:overworld",
+        "mob": "aquamirae:spinefish",
+        "biome": [
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+        ],
+        "maxcount": {
+            "amount": 24,
+            "perplayer": true
+        },
+        "result": "default"
+    },
+    {
+        "mob": "aquamirae:spinefish",
+        "result": "deny"
+    },
+    {
+        "dimension":"minecraft:overworld",
+        "mob": "aquamirae:eel",
+        "biome": [
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+        ],
+        "random": 0.5,
+        "maxcount": {
+            "amount": 2,
+            "perplayer": true
+        },
+        "result": "default"
+    },
+    {
+        "mob": "aquamirae:eel",
+        "result": "deny"
+    },
+    {
+        "mob": "aquamirae:maw",
+        "dimension": "minecraft:overworld",
+        "mincount": {
+            "amount": 15,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "mob": "aquamirae:golden_moth",
+        "dimension": "minecraft:overworld",
+        "mincount": {
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "mob": "aquamirae:tortured_soul",
+        "dimension": "minecraft:overworld",
+        "mincount": {
+            "amount": 15,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "dimension": "twilightforest:twilightforest",
+        "mob": [
+          "iceandfire:siren",
+          "iceandfire:sea_serpent",
+          "iceandfire:hippocampus"
+        ],
+        "mincount": {
+          "amount": 10,
+          "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "dimension": "allthemodium:the_other",
+        "mob": [
+          "iceandfire:hydra",
+          "iceandfire:dread_scuttler",
+          "iceandfire:dread_beast",
+          "iceandfire:dread_horse",
+          "iceandfire:dread_thrall",
+          "iceandfire:dread_ghoul",
+          "iceandfire:dread_knight"
+        ],
+        "mincount": {
+          "amount": 10,
+          "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "dimension": "twilightforest:twilightforest",
+        "mod": [
+          "ars_nouveau"
+        ],
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "iceandfire:myrmex_queen",
+        "result": "deny",
+        "onjoin": true
+    },
+    {
+        "dimension": "allthemodium:mining",
+        "mod": "ars_nouveau",
+        "result": "deny"
+    },
+    {
+        "mob": [
+          "iceandfire:ghost"
+        ],
+        "result": "deny"
+    }
+]

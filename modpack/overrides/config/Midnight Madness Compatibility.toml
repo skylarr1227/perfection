@@ -1,0 +1,13 @@
+
+["Nonexistent+"]
+	#Does some of Nonexistent+ mobs drop Dark Souls? [default=true]
+	"Nonexistent+ - Dark Souls drop" = true
+
+["Born in Chaos"]
+	#Does some of Born in Chaos mobs drop Souls? [default=true]
+	"Born in Chaos - Souls drop" = true
+	#Does some of Born in Chaos mobs drop Dark Souls? [default=true]
+	"Born in Chaos - Dark Souls drop" = true
+	#Does some of Born in Chaos mobs drop Horrifying Souls? [default=true]
+	"Born in Chaos - Horrifying Souls drop" = true
+

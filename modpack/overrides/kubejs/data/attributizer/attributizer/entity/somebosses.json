@@ -1,0 +1,156 @@
+{
+  "somebosses:rib_golem":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 199,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:vulcan":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 249,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:aesegull":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 299,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:crimson_vampire":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 349,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:man_of_water":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 399,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:merciless_assasin":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 449,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:ancient_wizard":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 499,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:nameless_one":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 549,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:flaming_berserker":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 599,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:volcanium":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 649,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:frost_magma":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 699,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:froverlord":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 749,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:prismarine_watcher":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 799,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:stone_guard":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 849,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:sand_giant":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 899,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:electric_head":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 949,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:ender_ordnance":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 999,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:hand_head":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 1049,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:mono_eyed_skeleton":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 1099,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:knight_garent":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 1149,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:skeleton_demon":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 1199,
+      "operation": "SET_BASE"
+    }
+  ],
+  "somebosses:dark_mask":[
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modify": 1249,
+      "operation": "SET_BASE"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+#Disable showing guide book with the Psi keybind
+disableGuideBookHotkey = true
+

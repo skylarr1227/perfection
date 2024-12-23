@@ -1,0 +1,22 @@
+
+[items]
+	#Determines what item is dropped as a bone from animals.
+	boneItem = "minecraft:bone"
+	#Determines what item is dropped as a feather from chickens when they are plucked.
+	featherItem = "minecraft:feather"
+
+[enabled]
+	#Determines if right-clicking on a chicken with shears drops a feather.
+	plucking = true
+	#Determines if animals can drop bones on death.
+	boneDrops = true
+	#Determines if extra sticks are dropped from leaves.
+	extraStickDrops = true
+	#Determines if logs can't be gathered with fists.
+	noTreePunching = true
+
+[values]
+	#Determines the % chance to get an extra stick from leaves.
+	#Range: 1 ~ 100
+	extraSticksChance = 15
+

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nourished_nether:block/netherrack_slab"
+    },
+    "type=top": {
+      "model": "nourished_nether:block/netherrack_slab_top"
+    },
+    "type=double": {
+      "model": "nourished_nether:block/netherrack_slab_full"
+    }
+  }
+}

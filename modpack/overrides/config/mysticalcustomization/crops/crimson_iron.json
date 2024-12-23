@@ -1,0 +1,14 @@
+{
+  "name": "Crimson Iron",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:3",
+  "ingredient": {
+    "tag": "forge:ingots/crimson_iron"
+  },
+  "color": "FC6087",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower/crimson_iron_flower",
+    "essence": "mysticalagriculture:item/essence/crimson_iron_essence",
+    "seeds": "mysticalagriculture:item/seeds/crimson_iron_seeds"
+  }
+}

@@ -1,0 +1,32 @@
+
+["Fuel Burntime Multiplicator"]
+	#default value is 1
+	multiplier = 1.0
+
+["Generator Outputs"]
+	"Stone Generator" = 1.0
+	"Iron Generator" = 16.0
+	"Gold Generator" = 32.0
+	"Diamond Generator" = 64.0
+	"Netherite Generator" = 1024.0
+	"Obsidian Generator" = 256.0
+	"Tin Generator" = 10.0
+	"Steel Generator" = 256.0
+	"Refined Obsidian Generator" = 1024.0
+	"Osmium Generator" = 64.0
+	"Lead Generator" = 16.0
+	"Copper Generator" = 8.0
+	"Bronze Generator" = 32.0
+	"Certus Quartz Generator" = 10.0
+	"Skystone Generator" = 10.0
+	"Unobtainium Generator" = 16384.0
+	"Vibranium Generator" = 4096.0
+	"Signalum Generator" = 256.0
+	"Invar Generator" = 64.0
+	"Quartz Enriched Generator" = 24.0
+	"Enderium Generator" = 1024.0
+	"Uranium Generator" = 128.0
+	"Platinum Generator" = 512.0
+	"The Everlasting Generator" = 655360.0
+	"AllTheModium Generator" = 2048.0
+

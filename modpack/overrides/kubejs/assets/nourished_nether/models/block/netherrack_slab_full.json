@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "nourished_nether:blocks/netherrack",
+    "top": "nourished_nether:blocks/netherrack",
+    "side": "nourished_nether:blocks/netherrack"
+  },
+  "render_type": "solid"
+}

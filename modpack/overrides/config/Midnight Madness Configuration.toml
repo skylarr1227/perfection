@@ -1,0 +1,77 @@
+
+[Souls]
+	#Chance for entity to drop Soul/Dark Soul [default=0.06, max=1.0]
+	"Souls drop chance" = 0.06
+	#Chance for entity to drop Soul/Dark Soul during Soul Harvest [default=0.13, max=1.0]
+	"Soul Harvest - Souls drop chance" = 0.13
+	#Chance for Souls to escape player [every tick, default=0.004, max=1.0]
+	"Soul escape chance" = 0.005
+	#Chance for Souls to escape player during Soul Harvest [every tick, default=0.008, max=1.0]
+	"Soul Harvest - Soul escape chance" = 0.009
+	#Chance for Dark Souls to escape player [every tick, default=0.003, max=1.0]
+	"Dark Soul escape chance" = 0.0025
+	#Chance for Dark Souls to escape player during Soul Harvest [every tick, default=0.006, max=1.0]
+	"Soul Harvest - Dark Soul escape chance" = 0.005
+	#Chance for Horrifying Souls to escape player [every tick, default=0.001, max=1.0]
+	"Horrifying Soul escape chance" = 0.001
+	#Chance for Horrifying Souls to escape player during Soul Harvest [every tick, default=0.002, max=1.0]
+	"Soul Harvest - Horrifying Soul escape chance" = 0.002
+	#Chance for Dragon Souls to escape player [every tick, default=0.001, max=1.0]
+	"Dragon Soul escape chance" = 0.001
+	#Chance for Dragon Souls to escape player during Soul Harvest [every tick, default=0.002, max=1.0]
+	"Soul Harvest - Dragon Soul escape chance" = 0.002
+	#The amount of energy Cursed Altar receives from 1 Soul [default=1, max=100]
+	"Soul energy value" = 1.0
+	#The amount of energy Cursed Altar receives from 1 Dark Soul [default=3, max=100]
+	"Dark Soul energy value" = 3.0
+	#The amount of energy Cursed Altar receives from 1 Horrifying Soul [default=40, max=100]
+	"Horrifying Soul energy value" = 40.0
+	#The amount of energy Cursed Altar receives from 1 Dragon Soul [default=100, max=100]
+	"Dragon Soul energy value" = 100.0
+
+[Demons]
+	#Chance for Fiend to spawn when Dark Soul escapes player [default=0.5, max=1.0]
+	"Fiend spawn chance" = 0.5
+	#Chance for Fiend to spawn when Dark Soul escapes player during Soul Harvest [default=0.5, max=1.0]
+	"Soul Harvest - Fiend spawn chance" = 0.5
+	#Chance for Reaper to spawn when Totem of Undying is triggered [default=0.5, max=1.0]
+	"Reaper spawn chance(Totem of Undying)" = 0.5
+	#Chance for Reaper to spawn when the human is low health [default=0.1, max=1.0]
+	"Reaper spawn chance(Human is low health)" = 0.1
+	#Delay before Reaper tries to spawn(in ticks, only when the human is low heatlh) [default=200]
+	"Reaper spawn delay(Human is low health)" = 200.0
+	#Does Reaper spawn when Totem of Undying is triggered? [default=true]
+	"Does Reaper Spawn?(Totem of Undying)" = true
+	#Does Reaper spawn when human is low health? [default=true]
+	"Does Reaper Spawn?(Human is low health)" = true
+	#Does regular demons get stronger during a full moon night? [default=true]
+	"Does full moon empowers regular demons?" = true
+
+[Effects]
+	#Value of attack speed reduction from Fear [default=0.3]
+	"Fear attack speed reduction" = 0.3
+	#Value of movement speed reduction from Fear [default=0.01]
+	"Fear movement speed reduction" = 0.01
+
+["Chat messages"]
+	#Enable welcoming message? [default=true]
+	"Welcoming message in chat" = false
+	#Enable tips from <???>? [default=true]
+	"???'s tips in chat" = true
+	#Enable messages from <Cursed Altar>? [default=true]
+	"Cursed Altar's whispers in chat" = true
+	#Enable messages from <Restless Soul>? [default=true]
+	"Restless Souls' cryings in chat" = true
+	#Enable messages from <Skeleton King>? [default=true]
+	"Skeleton King's messages in chat" = true
+	#Enable messages from <Demon King>? [default=true]
+	"Demon King's messages in chat" = true
+
+[Other]
+	#Enable Soul Harvest event? [default=true]
+	"Soul Harvest event" = true
+	#Enable Soul Harvest start sound? [default=true]
+	"Soul Harvest start sound" = true
+	#Enable Soul Harvest end sound? [default=true]
+	"Soul Harvest end sound" = true
+

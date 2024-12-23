@@ -1,0 +1,2420 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6oboss_rush_challange"
+	group: "0191929ABBCAE7CF"
+	icon: {
+		Count: 1b
+		id: "iceandfire:dragonbone_sword_fire"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4222610B51B3D813"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "kubejs:textures/item/quest.png"
+			rotation: 0.0d
+			width: 0.3d
+			x: -3.2857142857142847d
+			y: -3.7642857142857196d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.7d
+			hover: [ ]
+			image: "kubejs:textures/item/brc.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "kubejs:textures/item/spark.png"
+			rotation: 0.0d
+			width: 1.1003584229390682d
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "kubejs:textures/item/spark.png"
+			rotation: 0.0d
+			width: 1.1003584229390682d
+			x: -7.0d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "kubejs:textures/item/spark.png"
+			rotation: 0.0d
+			width: 1.1003584229390682d
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "kubejs:textures/item/spark.png"
+			rotation: 0.0d
+			width: 1.1003584229390682d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Gilded Dynamite"]
+			image: "kubejs:item/angerite"
+			rotation: 0.0d
+			width: 0.5d
+			x: -0.9642857142857153d
+			y: -3.6571428571428584d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Illegal Beacon"]
+			image: "kubejs:item/ghoul_quartz"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.5d
+			y: -3.6571428571428584d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Vampire Bait"]
+			image: "kubejs:item/blood_quartz"
+			rotation: 0.0d
+			width: 0.5d
+			x: 2.500000000000007d
+			y: -3.6571428571428584d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Cursed Spring Water"]
+			image: "kubejs:item/medusa_quartz"
+			rotation: 0.0d
+			width: 0.5d
+			x: 4.0d
+			y: -2.6214285714285737d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Token of the Ninja"]
+			image: "kubejs:item/cyber_orb"
+			rotation: 0.0d
+			width: 0.5d
+			x: 5.0d
+			y: -1.1214285714285737d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Rusty Sword Relic"]
+			image: "kubejs:item/corrupted_crystal"
+			rotation: 0.0d
+			width: 0.5d
+			x: 6.071428571428569d
+			y: 0.942857142857136d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Necromancy Staff"]
+			image: "kubejs:item/citrine"
+			rotation: 0.0d
+			width: 0.5d
+			x: 5.0d
+			y: 3.1285714285714263d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Furnace Torch"]
+			image: "kubejs:item/borgium"
+			rotation: 0.0d
+			width: 0.5d
+			x: 4.035714285714278d
+			y: 4.628571428571426d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Burning Volcanic Rock"]
+			image: "kubejs:item/meteorite_scrap"
+			rotation: 0.0d
+			width: 0.5d
+			x: 2.500000000000007d
+			y: 5.5928571428571345d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Ice Lantern"]
+			image: "kubejs:item/fire_opal"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.4642857142857153d
+			y: 5.5928571428571345d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Frozen Shield Plate"]
+			image: "kubejs:item/matrix_opal"
+			rotation: 0.0d
+			width: 0.5d
+			x: -1.5357142857142776d
+			y: 5.5928571428571345d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Prismarine Eye"]
+			image: "kubejs:item/catseye"
+			rotation: 0.0d
+			width: 0.5d
+			x: -3.5d
+			y: 5.6107142857142875d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Slab of Command"]
+			image: "kubejs:item/grindstone_scrap"
+			rotation: 0.0d
+			width: 0.5d
+			x: -5.5d
+			y: 5.585714285714275d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Cactus Relic"]
+			image: "kubejs:item/hercynite"
+			rotation: 0.0d
+			width: 0.5d
+			x: -7.5d
+			y: 5.592857142857127d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Power Generator Core"]
+			image: "kubejs:item/draconium_scrap"
+			rotation: 0.0d
+			width: 0.5d
+			x: -9.0d
+			y: 4.621428571428567d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Disgusting Pendant"]
+			image: "kubejs:item/humoranium"
+			rotation: 0.0d
+			width: 0.5d
+			x: -10.0d
+			y: 3.04999999999999d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make  Dark Magic Gauntlet"]
+			image: "kubejs:item/star_sapphire"
+			rotation: 0.0d
+			width: 0.5d
+			x: -11.07142857142857d
+			y: 0.9785714285714135d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make One Eyed Wrait in a Bottle"]
+			image: "kubejs:item/chalcanthite"
+			rotation: 0.0d
+			width: 0.5d
+			x: -10.0d
+			y: -1.1285714285714334d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Bone of Curse"]
+			image: "kubejs:item/cursed_crystal"
+			rotation: 0.0d
+			width: 0.5d
+			x: -7.5d
+			y: -3.619642857142857d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Monochrome Mask"]
+			image: "kubejs:item/eclipse_diamond"
+			rotation: 0.0d
+			width: 0.5d
+			x: -5.5d
+			y: -3.619642857142857d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.5d
+			hover: ["&a&oUse to make Chaos Insignia"]
+			image: "kubejs:item/neonium"
+			rotation: 0.0d
+			width: 0.5d
+			x: -9.0d
+			y: -2.619642857142857d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["488552967768DF24"]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/rib_golem.png"
+				}
+			}
+			id: "2F19F4F59261F34D"
+			rewards: [
+				{
+					id: "1BFF4165D3AE453B"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "54906EEB48DB42A4"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D8BBEEB5EBACD57"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "29DBD4835B24BC91"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "65C8050E27E5F108"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "&aSpawn Egg&r will drop by defeating &9Ender Dragon"
+			tasks: [{
+				entity: "somebosses:rib_golem"
+				icon: "somebosses:rib_golem_spawn_egg"
+				id: "26028B98D40FD5E7"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"2F19F4F59261F34D"
+				"61FA75AE3AAAF17F"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/vulcan.png"
+				}
+			}
+			id: "1C28A3F8F8F91E8A"
+			rewards: [
+				{
+					id: "5F6B4CD0660D3842"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7A96E2747F3DEB45"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "14ADD59042798AC2"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78205AE916D156FD"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "54DF02D2BDE5D870"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aGilded Dynamite"
+			tasks: [{
+				entity: "somebosses:vulcan"
+				icon: "somebosses:vulcan_spawn_egg"
+				id: "0DF4E518EE2FD8F1"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"1C28A3F8F8F91E8A"
+				"5C3528471E542D86"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/aesegull.png"
+				}
+			}
+			id: "15A9B2723DF3497B"
+			rewards: [
+				{
+					id: "107E506D836FD010"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D3D887DD2A60C9E"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1BDF85DEFF512989"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "29AD774887295E3A"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "7EEB59BBC73A99BB"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aIllegal Beacon"
+			tasks: [{
+				entity: "somebosses:aesegull"
+				icon: "somebosses:aesegull_spawn_egg"
+				id: "065012F2D1583B6C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["488552967768DF24"]
+			description: ["The &2Stone of Summoning&r is one of the &nmost important&r ingredient for creation of &nall&r &bSummoning Talismans&r in the &eBoss Rush Battle&r."]
+			id: "0DF628583385831F"
+			min_width: 300
+			rewards: [
+				{
+					id: "36B4FC82EC917EE6"
+					type: "xp"
+					xp: 300
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6496F4970E14A0A3"
+					table_id: 6363515282471183984L
+					type: "loot"
+				}
+				{
+					id: "686DA9B7E507CE77"
+					item: "kubejs:note_200"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "3F5A27C09C11BDED"
+				item: "kubejs:crystal_of_summoning"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"15A9B2723DF3497B"
+				"01430DFAE6474D96"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/crimson_vampire.png"
+				}
+			}
+			id: "713B9D75D0AE82B2"
+			rewards: [
+				{
+					id: "13CDB2E42637CCD9"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7669997F61302C9B"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1D5D16673A884447"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "759E82641676870F"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "55C5B11B7B1D13C8"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aVampire Bait"
+			tasks: [{
+				entity: "somebosses:crimson_vampire"
+				icon: "somebosses:crimson_vampire_spawn_egg"
+				id: "0599D142A48478FD"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"713B9D75D0AE82B2"
+				"0D55A97E00ECB511"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/man_of_water.png"
+				}
+			}
+			id: "7C77EF5E96D3E8B6"
+			rewards: [
+				{
+					id: "7D81057590B94A7A"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64F8BCDDB8705BD2"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6455F99431481E86"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F724E8885BFDFF5"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "276851EB4B44CE38"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aCursed Spring Water"
+			tasks: [{
+				entity: "somebosses:man_of_water"
+				icon: "somebosses:man_of_water_spawn_egg"
+				id: "7EFE75C3C216FCEB"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"7C77EF5E96D3E8B6"
+				"469007B6EFA93CAF"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/merciless_assasin.png"
+				}
+			}
+			id: "4EAA715D11558D85"
+			rewards: [
+				{
+					id: "7CB7918040D3C531"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7622BA84A5CB54F1"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "07433E065B366E5C"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0358E611F13DE04C"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "169C65CE0A19BCE9"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aToken of the Ninja"
+			tasks: [{
+				entity: "somebosses:merciless_assasin"
+				icon: "somebosses:merciless_assasin_spawn_egg"
+				id: "581F0E743A741049"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"4EAA715D11558D85"
+				"214C773D64A06BD3"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/ancient_wizard.png"
+				}
+			}
+			id: "41DC6725E85FE9BA"
+			rewards: [
+				{
+					id: "20495530E4A0FEA7"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4ACCBADDC9244779"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4C56674A2349BAE4"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60D49B0E8279F89A"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "136A899B1B168817"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aRusty Sword Relic"
+			tasks: [{
+				entity: "somebosses:ancient_wizard"
+				icon: "somebosses:ancient_wizard_spawn_egg"
+				id: "4D9725ED8FF65D47"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"41DC6725E85FE9BA"
+				"7C512BBEF69D9377"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/nameless_one.png"
+				}
+			}
+			id: "3356D40E27B32721"
+			rewards: [
+				{
+					id: "777B820B14E86BAC"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4BCA98C94B357116"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "543A8F85C16FF2FF"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "14C9914AE00472AA"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "40378E4E25B6DFB9"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aNecromancy Stuff"
+			tasks: [{
+				entity: "somebosses:nameless_one"
+				icon: "somebosses:nameless_one_spawn_egg"
+				id: "33BAC0F0AF20C3D2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3356D40E27B32721"
+				"5EB1AA05FAF8FF80"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/flaming_berserker.png"
+				}
+			}
+			id: "5EA055CB9E538078"
+			rewards: [
+				{
+					id: "2474F1C637A23857"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4BAAF4D054962131"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D635FE4D849B76A"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3A9361B52A052C52"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "0132A825DAC67497"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aFurnace Torch"
+			tasks: [{
+				entity: "somebosses:flaming_berserker"
+				icon: "somebosses:flaming_berserker_spawn_egg"
+				id: "211F8B0088008BD0"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"5EA055CB9E538078"
+				"41FACE60E2CD9E6F"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/volcanium.png"
+				}
+			}
+			id: "4A634B897D1EBEED"
+			rewards: [
+				{
+					id: "04FD0D7EA74E4870"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "42BF6ECA3505F78D"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "164D09EDD3F6DE2C"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "22D4C75023A75CE8"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "6FB0AE19CE8861A9"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aBurning Volcanic Rock"
+			tasks: [{
+				entity: "somebosses:volcanium"
+				icon: "somebosses:volcanium_spawn_egg"
+				id: "33269F97A5242499"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"4A634B897D1EBEED"
+				"47FAA03B301E188E"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/frost_magma.png"
+				}
+			}
+			id: "4288F695FBB6B959"
+			rewards: [
+				{
+					id: "46C150BE606D93E5"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "321AC60074BA05DE"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60F7338238641AE0"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "03E4DCA317ACE7A3"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "6EE05DEC0D9FA15A"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aIce Lantern"
+			tasks: [{
+				entity: "somebosses:frost_magma"
+				icon: "somebosses:frost_magma_spawn_egg"
+				id: "1CD2E33AC470D115"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"4288F695FBB6B959"
+				"764496130BB83F1A"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/froverlord.png"
+				}
+			}
+			id: "76183A7A8DF77164"
+			rewards: [
+				{
+					id: "41F0E0306C24FE47"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51EAB351E01CEEB1"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16D29960F1C7884D"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5ED4D3249FA49A44"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "23F339D2A9B364C5"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aFrozen Shield Plate"
+			tasks: [{
+				entity: "somebosses:froverlord"
+				icon: "somebosses:froverlord_spawn_egg"
+				id: "642D2F37CFC660FC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"76183A7A8DF77164"
+				"41FB1C78C1CEA1D6"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/prismarine_watcher.png"
+				}
+			}
+			id: "44CEE55A539AC242"
+			rewards: [
+				{
+					id: "3889D733AF1087CE"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50A6403AB4F3DAC5"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2356C83807E6A2EC"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4FECF78E70EFE9D2"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "4791BB7BDFB8F112"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aPrismarine Eye"
+			tasks: [{
+				entity: "somebosses:prismarine_watcher"
+				icon: "somebosses:prismarine_watcher_spawn_egg"
+				id: "39BAE6F8E56C895A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"44CEE55A539AC242"
+				"4968C49445F85B85"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/stone_guard.png"
+				}
+			}
+			id: "44B4D3B8C24CCB75"
+			rewards: [
+				{
+					id: "477E7CDFB4FFEC4E"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2DC28DAB643A6AB3"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "433E14AA2725B3B3"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F94D8917ED2272F"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "4820E570ECE512EC"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aSlab of Command"
+			tasks: [{
+				entity: "somebosses:stone_guard"
+				icon: "somebosses:stone_guard_spawn_egg"
+				id: "03D4E579C023F971"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"44B4D3B8C24CCB75"
+				"62DF3D62DA52118F"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/sand_giant.png"
+				}
+			}
+			id: "0DF4F7CA060F9B37"
+			rewards: [
+				{
+					id: "4224F00841A79692"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "36AF8D9270111801"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4225B69582E3C891"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1DDB39A8B44AF850"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "5EC39212F44B3C3D"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aCactus Relic"
+			tasks: [{
+				entity: "somebosses:sand_giant"
+				icon: "somebosses:sand_giant_spawn_egg"
+				id: "57074F9BAD89E07B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"0DF4F7CA060F9B37"
+				"2440BC61B5D530E7"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/electric_head.png"
+				}
+			}
+			id: "5DA3FA0D7EB43745"
+			rewards: [
+				{
+					id: "37927BD031AF4071"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2EBF93C9D5ADC70E"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B0C6997BD07B9C0"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "706F154A500CFEB4"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "20FCBF9D11A165DE"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aPower Generator Core"
+			tasks: [{
+				entity: "somebosses:electric_head"
+				icon: "somebosses:electric_head_spawn_egg"
+				id: "76932C64054F0180"
+				type: "kill"
+				value: 1L
+			}]
+			x: -10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"5DA3FA0D7EB43745"
+				"3F52183C77D1B647"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/ender_ordnance.png"
+				}
+			}
+			id: "4D5BABE803EE617A"
+			rewards: [
+				{
+					id: "233EBB129D8B20C1"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A3851EFC20253E2"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3861A9819D3EC054"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F3F4C84109E3809"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "454012BC1174B109"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aDisgusting Pendent"
+			tasks: [{
+				entity: "somebosses:ender_ordnance"
+				icon: "somebosses:ender_ordnance_spawn_egg"
+				id: "29683BD2E93044EE"
+				type: "kill"
+				value: 1L
+			}]
+			x: -10.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"4D5BABE803EE617A"
+				"269886C6C24C4346"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/hand_head.png"
+				}
+			}
+			id: "3BF065213DE4A676"
+			rewards: [
+				{
+					id: "3C84FF34EB27DAA3"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A906F0059814A25"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A274A9FA9ACCCD2"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6CF4A6B7BAF2EFBE"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "04A749F344DDB850"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aDark Magic Gauntlet"
+			tasks: [{
+				entity: "somebosses:hand_head"
+				icon: "somebosses:hand_head_spawn_egg"
+				id: "2C83D2F89A5BDF45"
+				type: "kill"
+				value: 1L
+			}]
+			x: -10.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"3BF065213DE4A676"
+				"25B79DB664C078BB"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/mono_eyed_skeleton.png"
+				}
+			}
+			id: "12A1F805EEBFA2F1"
+			rewards: [
+				{
+					id: "3F77E32ED9C967D3"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "10606DA5C2D2600B"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7B069A45F3261A09"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64516E21CC29B156"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "63ECAB7FEAEE3B66"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aOne Eyed Wrait in a Bottle"
+			tasks: [{
+				entity: "somebosses:mono_eyed_skeleton"
+				icon: "somebosses:mono_eyed_skeleton_spawn_egg"
+				id: "58BB7906940FBA1F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"12A1F805EEBFA2F1"
+				"09D260165E074CB7"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/knight_garent.png"
+				}
+			}
+			id: "3DCAA1F4E18D1867"
+			rewards: [
+				{
+					id: "3F0D18147F6C7FDE"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "442CAD4A8A8268E6"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D77224745DB1F0F"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "721045091B50D33F"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "38038386630E8583"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aChaos Insignia"
+			tasks: [{
+				entity: "somebosses:knight_garent"
+				icon: "somebosses:knight_garent_spawn_egg"
+				id: "20B64EFDBF8A8F2C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"3DCAA1F4E18D1867"
+				"3123A632523E6D10"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/skeleton_demon.png"
+				}
+			}
+			id: "4E64F938035CE9C8"
+			rewards: [
+				{
+					id: "5D3356B544475292"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C14EEFB416D54A5"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0F04ECE4A9ECEF61"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7183019B53C80E40"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "338B968521DAAEE9"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aBone of Curse"
+			tasks: [{
+				entity: "somebosses:skeleton_demon"
+				icon: "somebosses:skeleton_demon_spawn_egg"
+				id: "647B18B5F8ADBBB8"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"4E64F938035CE9C8"
+				"213E0F3732860ED7"
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/item/dark_mask.png"
+				}
+			}
+			id: "4C0F21384550213E"
+			rewards: [
+				{
+					id: "6481F3F219425887"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					exclude_from_claim_all: true
+					id: "06EF99E45BD24A9B"
+					table_id: 4432288867142743846L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "371E2F7832CC17D8"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "352871EDAF569FDE"
+					table_id: 7842739214414806319L
+					type: "loot"
+				}
+				{
+					id: "1E09A74D85EFDD76"
+					item: "kubejs:note_500"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Can be summoned with &aMonochrome Mask"
+			tasks: [{
+				entity: "somebosses:dark_mask"
+				icon: "somebosses:dark_mask_spawn_egg"
+				id: "4CD0C00DF0E13468"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "61FA75AE3AAAF17F"
+			rewards: [
+				{
+					id: "7856357AB03844D5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "23B651ADC944C696"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5E8D58D20B9C2E4A"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "37AF02A7070585BC"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "27E88B105DE900FD"
+				item: "somebosses:gilded_dynamite"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "5C3528471E542D86"
+			rewards: [
+				{
+					id: "781563AC66BAE767"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2113349A60D25DAB"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67C1F058408C3FED"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "229DF513FB3ED3B7"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3D3F93168298BFB9"
+				item: "somebosses:illegal_beacon"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "01430DFAE6474D96"
+			rewards: [
+				{
+					id: "762B82085EE02877"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "438C8DBE8F494EC1"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C5D9BB4F911C231"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "5E343E0D9E763EF8"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1FC6A5A60AA60069"
+				item: "somebosses:vampire_bait"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "0D55A97E00ECB511"
+			rewards: [
+				{
+					id: "573FA449D8965FE2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3E6B5A0D9E552BBA"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F3CE82D4215E219"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "26137204C7DCDEE0"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0EB8F8F649602F69"
+				item: "somebosses:cursed_spring_water"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "469007B6EFA93CAF"
+			rewards: [
+				{
+					id: "23D634ECF3E9FDF1"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E5552263E05FD18"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A0A618A07F74216"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "75165F96D3C0C5C5"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7091CE1865F0A3B2"
+				item: "somebosses:token_of_the_ninja"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "214C773D64A06BD3"
+			rewards: [
+				{
+					id: "6D1663BEC7210608"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A12DC2076DB0F93"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E14F6551D5A3D06"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "7F81C6680D3D2EAD"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7AE642B1FA48729D"
+				item: "somebosses:rusty_sword_relic"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "7C512BBEF69D9377"
+			rewards: [
+				{
+					id: "072B23E35B99C17F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1D28461C91F193B0"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1DE5E323E6B3A4E6"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "298A590FE2090AAF"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7EBEE88CE238763E"
+				item: "somebosses:necromancy_staff"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "5EB1AA05FAF8FF80"
+			rewards: [
+				{
+					id: "725DADD9E526BF6B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61297AC7A5F5E20F"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "073EA3D9E8794C16"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "1C35C95C99AAF4E8"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5AD0FE0212E65229"
+				item: "somebosses:furnace_torch"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "41FACE60E2CD9E6F"
+			rewards: [
+				{
+					id: "6C57736403E62FA2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "088C547BBB746C94"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "060C6908F7AF314D"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "1CB0A63944956F8D"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1CB4F575CECEE051"
+				item: "somebosses:burning_volcanic_rock"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "47FAA03B301E188E"
+			rewards: [
+				{
+					id: "6D3539F5C338775E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "494E5AC1ED729D25"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D7F601C40D06E4C"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "01F5716939D071C1"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "30151C382777187D"
+				item: "somebosses:ice_lantern"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "764496130BB83F1A"
+			rewards: [
+				{
+					id: "1ACB9B25FAE9167F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "044C880C803666B9"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B73C963A2309542"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "75F6CDAA4713EB36"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "10E7B4D32DBB71E5"
+				item: "somebosses:frozen_shield_plate"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "41FB1C78C1CEA1D6"
+			rewards: [
+				{
+					id: "2EA2E8CC2FE8E683"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D6D534E3CC44468"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E06D2459C7169B8"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "3383673B82D4F2E6"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "043B0C553144AD5E"
+				item: "somebosses:prismarine_eye"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "4968C49445F85B85"
+			rewards: [
+				{
+					id: "05E882787D66F2A7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5CF9A3DCFAFAABDB"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7AECF701E7BD294A"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "0B171A64C315B19B"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3D13DC93597B86FF"
+				item: "somebosses:slab_of_command"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "62DF3D62DA52118F"
+			rewards: [
+				{
+					id: "1BB964ABFC21030F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2BBCDDC0AAD03A71"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "30BAA6E5BE8ACFFD"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "6140974F82F0ADBD"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0C7E5A027114DFF2"
+				item: "somebosses:cactus_relic"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "2440BC61B5D530E7"
+			rewards: [
+				{
+					id: "16D088094C7021AD"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "456371266094A501"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1C32A702A8BBCAC5"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "23FAB4D20F6EE57E"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4B3A9D9E4E888B65"
+				item: "somebosses:power_generator_core"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "3F52183C77D1B647"
+			rewards: [
+				{
+					id: "3FF79534830EAE08"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04C13DDFFCE8AF12"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7A7C3A77912D88E2"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "2E7C12DF9341D361"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3E50F417C79CD20E"
+				item: "somebosses:disgusting_pendant"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "269886C6C24C4346"
+			rewards: [
+				{
+					id: "3E841280AFD41DAB"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5023954D192F52DA"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4ACB76CAE8AF04E7"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "1776B44A3D16F49C"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6419C5EA147A59B1"
+				item: "somebosses:dark_magic_gauntlet"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "25B79DB664C078BB"
+			rewards: [
+				{
+					id: "0D4221BAF01D7A54"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "11A8D3878B1CD392"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "143CF5DE9B2C45CE"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "1858AA812284A3D5"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "21127B38DDA478E1"
+				item: "somebosses:one_eyed_wrait_in_a_bottle"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "09D260165E074CB7"
+			rewards: [
+				{
+					id: "4788767A4AF76EA0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5832981764952188"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0BC3B80AFCA54FFC"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "04BC504B09D9A5A1"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6B01EA17620DFEC7"
+				item: "somebosses:chaos_insignia"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "3123A632523E6D10"
+			rewards: [
+				{
+					id: "7886EA4558F8D3E9"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "59B47E5A0F1BDDD9"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4518973C3AF8B7B4"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "6DE59DF1F7AA1A0D"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "329FB971BD957541"
+				item: "somebosses:bone_of_curse"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0DF628583385831F"]
+			id: "213E0F3732860ED7"
+			rewards: [
+				{
+					id: "1852CE5E50C78A2F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D13951958533FA7"
+					table_id: 5351675120932028234L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E9245BEFBDEC272"
+					table_id: 4432288867142743846L
+					type: "loot"
+				}
+				{
+					id: "538B59EE0631271F"
+					item: "kubejs:note_50"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "295E532904280FC7"
+				item: "somebosses:monochrome_mask"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4C0F21384550213E"]
+			description: [
+				"Finally you have the &5Essence of Fate&r."
+				""
+				"The &5Essence of Fate&r is one of the main ingredients for crafting the &6Crystal of Creation&r, and is consumed at the same time as making the Crystal of Creation, so be wise and &o&bmake a few of these&r befofe you consume the last one."
+				""
+				"{image:kubejs:textures/item/essence_of_fate.png width:200 height:50 align:1}"
+			]
+			hide_dependency_lines: true
+			id: "69D3172AC4BB00D3"
+			min_width: 300
+			rewards: [
+				{
+					id: "0A8BCFB6577820DB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "401ECFF98AE215B6"
+					item: "kubejs:note_5"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7B4F16BD082654B7"
+				item: "mysticalagradditions:creative_essence"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Welcome to &6The Boss Rush Challenge Battle&r!"
+				""
+				"To begin the challenge, you have to defeat the &9Ender Dragon&r first. As reward by defeating the dragon, you'll get the spawn egg to summon the first boss in the challenge battle the &2Rib Golem&r."
+				""
+				"Each defeated boss in the row drops a &ncertain gemstone&r, the &ncrucial ingredient&r to create the next &eTalisman&r and summon the next boss."
+				""
+				"By defeating the &dDark Mask&r boss drops &6Soulium Dagger&r and &6Essence of Fate&r. These two items are main reward of your fight."
+			]
+			icon: {
+				Count: 1b
+				id: "iceandfire:dragonbone_sword_fire"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "488552967768DF24"
+			min_width: 300
+			rewards: [{
+				id: "0110CA89F34DCCA9"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "650C65097835270B"
+				type: "checkmark"
+			}]
+			title: "The Boss Rush Challenge Battle"
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4C0F21384550213E"]
+			description: [
+				"The &dCreative Attned&r &bSoulium Dagger&r it's just a additional reward for all your efforts."
+				""
+				"Of course you can use it to grant &ninfinite&r souls from &o&ball creatures&r."
+			]
+			hide_dependency_lines: true
+			id: "22129DF4E192606D"
+			min_width: 300
+			rewards: [
+				{
+					id: "50ECE85F90C6AA30"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "17B6C60C009C1A19"
+					item: "kubejs:note_5"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "24F072752852D21A"
+				item: "mysticalagriculture:creative_soulium_dagger"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.5d
+		}
+	]
+	title: "&6&oBoss Rush Challenge"
+}

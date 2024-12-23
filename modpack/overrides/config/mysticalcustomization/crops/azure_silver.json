@@ -1,0 +1,14 @@
+{
+  "name": "Azure Silver",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:3",
+  "ingredient": {
+    "tag": "forge:ingots/azure_silver"
+  },
+  "color": "1589FF",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower/azure_silver_flower",
+    "essence": "mysticalagriculture:item/essence/azure_silver_essence",
+    "seeds": "mysticalagriculture:item/seeds/azure_silver_seeds"
+  }
+}

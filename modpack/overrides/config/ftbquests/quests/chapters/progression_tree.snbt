@@ -1,0 +1,36 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "progression_tree"
+	group: ""
+	icon: "undergarden:grongle_sapling"
+	id: "75F23CF393823992"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 15.0d
+		hover: [ ]
+		image: "kubejs:textures/item/progession_tree.png"
+		rotation: 0.0d
+		width: 25.0d
+		x: 0.0d
+		y: 0.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		disable_toast: true
+		icon: "undergarden:grongle_sapling"
+		id: "08273437A13518E7"
+		tasks: [{
+			icon: "undergarden:grongle_sapling"
+			id: "72A7878F7DF61B14"
+			title: "Progression Tree"
+			type: "custom"
+		}]
+		x: -0.5d
+		y: -6.5d
+	}]
+	title: "&fProgression Tree"
+}
